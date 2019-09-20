@@ -1,6 +1,6 @@
 # ICMLA
 
-This repository contains the source code both cornell and yelp models that uses both internal and external rewards for reinforcement learning with bidirectional encoder-decoder seq2seq model.
+This repository contains the source code of both cornell and yelp models that use both internal/external rewards for emotional natural language generation.
 
 <img src="architecture.png">
 
