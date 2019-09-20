@@ -1,7 +1,7 @@
-# ICWSM_Emoji :heart::purple_heart::broken_heart::dash::pray:
+# ICMLA
 
 This repository contains the source code both cornell and yelp models that uses both internal and external rewards for reinforcement learning with bidirectional encoder-decoder seq2seq model.
-![Overall Architure](https://github.com/tograh/testrepository/3DTest.png)
+
 
 
 Please contact vsriniv6@uncc.edu if you have any further questions with regards to this project. 
