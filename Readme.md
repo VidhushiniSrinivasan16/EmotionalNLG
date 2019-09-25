@@ -8,4 +8,12 @@ Neural seq2seq models are widely used to generate dialogue using variations of R
    
 <img src="architecture.png">
 
+<b>References:</b>
+   <ol>
+      <li>Li, Jiwei et al. “Deep Reinforcement Learning for Dialogue Generation.” EMNLP (2016).</li>
+<li>Christiano, Paul F., et al. "Deep reinforcement learning from human preferences." Advances in Neural Information Processing Systems. 2017.</li>
+ <li>Asghar, Nabiha et al. “Affective Neural Response Generation.” ECIR (2018).</li>
+<li>Warriner, Amy Beth, Victor Kuperman, and Marc Brysbaert. "Norms of valence, arousal, and dominance for 13,915 English lemmas." Behavior research methods 45.4 (2013): 1191-1207.</li></ol>
+
+
 Please contact vsriniv6@uncc.edu if you have any further questions with regards to this project. 
