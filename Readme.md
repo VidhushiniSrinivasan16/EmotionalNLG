@@ -15,5 +15,7 @@ Neural seq2seq models are widely used to generate dialogue using variations of R
  <li>Asghar, Nabiha et al. “Affective Neural Response Generation.” ECIR (2018).</li>
 <li>Warriner, Amy Beth, Victor Kuperman, and Marc Brysbaert. "Norms of valence, arousal, and dominance for 13,915 English lemmas." Behavior research methods 45.4 (2013): 1191-1207.</li></ol>
 
+<img src="CORNELL.png">
+<img src="YELP.png">
 
 Please contact vsriniv6@uncc.edu if you have any further questions with regards to this project. 
