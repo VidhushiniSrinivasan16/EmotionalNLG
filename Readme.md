@@ -14,8 +14,9 @@ Neural seq2seq models are widely used to generate dialogue using variations of R
 <li>Christiano, Paul F., et al. "Deep reinforcement learning from human preferences." Advances in Neural Information Processing Systems. 2017.</li>
  <li>Asghar, Nabiha et al. “Affective Neural Response Generation.” ECIR (2018).</li>
 <li>Warriner, Amy Beth, Victor Kuperman, and Marc Brysbaert. "Norms of valence, arousal, and dominance for 13,915 English lemmas." Behavior research methods 45.4 (2013): 1191-1207.</li></ol>
-
-<img src="CORNELL.png">
-<img src="YELP.png">
+<b> Examples from Cornell Corpus</b><br>
+<img src="Cornell.png"><br>
+<b> Examples from Yelp Corpus</b><br>
+<img src="Yelp.png">
 
 Please contact vsriniv6@uncc.edu if you have any further questions with regards to this project. 
