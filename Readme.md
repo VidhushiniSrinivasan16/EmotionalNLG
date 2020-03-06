@@ -1,4 +1,4 @@
-# ICMLA
+# FTC
 
 <b><i>Deep Neural Language Generation with Emotional Intelligence and External Feedback</i></b><br>
 <b>Keywords:</b><i> deep learning, reinforcement learning, emotional intelligence, human feedback, seq2seq learning, conversational agent, affectively diverse beam search.</i><br>
