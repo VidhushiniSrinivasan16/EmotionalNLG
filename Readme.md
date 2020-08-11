@@ -19,4 +19,4 @@ Neural seq2seq models are widely used to generate dialogue using variations of R
 <b> Examples from Yelp Corpus</b><br>
 <img src="Yelp.png">
 
-Please contact vsriniv6@uncc.edu if you have any further questions with regards to this project. 
+Please contact vidhushinisrinivasan@gmail.com if you have any further questions with regards to this project. 
