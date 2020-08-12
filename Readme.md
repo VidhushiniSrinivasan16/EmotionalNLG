@@ -1,5 +1,5 @@
 # Emotional Natural Language Generation
-
+This repository contains scripts for the implementation of model as suggested in the paper titled [Natural Language Generation Using Reinforcement Learning with External Rewards](https://arxiv.org/abs/1911.11404)
 <b><i>Deep Neural Language Generation with Emotional Intelligence and External Feedback</i></b><br>
 <b>Keywords:</b><i> deep learning, reinforcement learning, emotional intelligence, human feedback, seq2seq learning, conversational agent, affectively diverse beam search.</i><br>
 
